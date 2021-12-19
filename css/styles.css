@@ -1,0 +1,48 @@
+.title {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.ruccola {
+       width: 100%;
+       display: block;
+       padding-top: 0.5rem;
+       padding-bottom: 0.5rem;
+            }
+
+.menu {
+  padding-top: 1rem;
+  }
+
+  .grass {
+         width: 100%;
+         display: block;
+         padding-top: 0.5rem;
+         padding-bottom: 0.5rem;
+               }
+
+h1 {
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  padding-top: 1rem;
+}
+
+h2,h3 {
+  text-align: center;
+  font-family: 'Cookie', cursive;
+}
+
+h4,p {
+  text-align: justify;
+  font-size: 1.2em;
+  padding: 0.5rem;
+  font-family: 'Cookie', cursive;
+}
+
+a {
+  font-family: 'Cookie', cursive;
+}
+
+.label {
+  text-align: center;
+}
