@@ -1,9 +1,9 @@
 
 // Запрет на копирование текста
-// document.ondragstart = noselect;
-// document.onselectstart = noselect;
-// document.oncontextmenu = noselect;
-// function noselect() {return false;}
+document.ondragstart = noselect;
+document.onselectstart = noselect;
+document.oncontextmenu = noselect;
+function noselect() {return false;}
 
 
 // Корзина
